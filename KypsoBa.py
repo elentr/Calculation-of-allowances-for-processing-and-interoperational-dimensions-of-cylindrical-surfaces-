@@ -353,7 +353,7 @@ class main_menu(QMainWindow):
     @pyqtSlot()
     def info(self):
         QMessageBox.question(self, 'Інформація про програму:',
-                             'Курсова робота \n4 курс (1 семестр)\n©Третяк О.В.', QMessageBox.Ok,
+                             'Курсова робота \n3 курс (2 семестр) ІП-з72\n©Третяк О.В.', QMessageBox.Ok,
                              QMessageBox.Ok)
 
     @pyqtSlot()
